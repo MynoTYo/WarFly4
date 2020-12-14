@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.warFly.AdroidExample"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>WarFly</name>
+
+  <description>
+      Nice dat you play my game: Thanks
+  </description>
+
+  <author href="https://build.phonegap.com" email="loic.verbeke@outlook.com">
+      MynoTYo
+  </author>
+  
+  </icon src="icon.png" />
+  
+  </widget>
